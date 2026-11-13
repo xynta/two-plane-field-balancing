@@ -1,0 +1,13 @@
+case,machine,place,date,run_no,run,speed_rpm,sensor1_velocity_mm_s,sensor1_phase_deg,sensor2_velocity_mm_s,sensor2_phase_deg
+A,"Excavator-mounted forestry mulcher, toothed drum",workshop,2018-11-28,0,initial,2038.6,6.28,96.1,7.854,299.7
+A,"Excavator-mounted forestry mulcher, toothed drum",workshop,2018-11-28,1,trial mass in plane 1,2014.6,5.633,344.9,5.611,281.3
+A,"Excavator-mounted forestry mulcher, toothed drum",workshop,2018-11-28,2,trial mass in plane 2,2027.0,7.099,108.5,17.39,308.0
+A,"Excavator-mounted forestry mulcher, toothed drum",workshop,2018-11-28,3,check run after correction,2043.3,0.594,150.1,0.818,95.2
+B,Combine harvester straw chopper,field,2020-06,0,initial,3114.3,8.079,328.9,26.49,195.1
+B,Combine harvester straw chopper,field,2020-06,1,trial mass in plane 1,3119.9,14.3,18.7,27.6,230.9
+B,Combine harvester straw chopper,field,2020-06,2,trial mass in plane 2,3117.8,7.439,41.8,49.86,217.0
+B,Combine harvester straw chopper,field,2020-06,3,check run after correction,3110.3,2.518,150.1,1.838,36.8
+C,"Claas Jaguar self-propelled forage harvester, rotor",workshop,2021-04,0,initial,2348.7,1.46,219.16,17.5,117.35
+C,"Claas Jaguar self-propelled forage harvester, rotor",workshop,2021-04,1,trial mass in plane 1,2352.5,2.2,195.04,10.8,112.22
+C,"Claas Jaguar self-propelled forage harvester, rotor",workshop,2021-04,2,trial mass in plane 2,2346.3,3.32,249.92,15.6,136.13
+C,"Claas Jaguar self-propelled forage harvester, rotor",workshop,2021-04,3,check run after correction,2344.6,2.32,136.53,2.11,172.66

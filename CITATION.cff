@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the technical note."
+title: "Two-plane field balancing: run data from three jobs and an influence-coefficient calculator"
+authors:
+  - family-names: Arsitov
+    given-names: Yaroslav
+repository-code: "https://github.com/xynta/two-plane-field-balancing"
+keywords:
+  - field balancing
+  - two-plane balancing
+  - influence coefficient method
+  - rotor dynamics
+  - vibration
+  - agricultural machinery
+preferred-citation:
+  type: report
+  title: "Two-plane field balancing of three agricultural and forestry rotors with a portable two-channel analyzer: run-by-run data and a recalculation of the influence-coefficient solution"
+  authors:
+    - family-names: Arsitov
+      given-names: Yaroslav
+  year: 2026
+  month: 11
+  version: "1.0"
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.24182029
+  url: "https://doi.org/10.5281/zenodo.24182029"
